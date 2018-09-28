@@ -1,0 +1,22 @@
+{
+  "name": "chatbotv2",
+  "version": "1.0.0",
+  "description": "update from the first chatbot. Instead of using Jython, utilizing node.js and npm's chatbot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blakexcosta/chatbotV2.git"
+  },
+  "author": "Blake Costa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blakexcosta/chatbotV2/issues"
+  },
+  "homepage": "https://github.com/blakexcosta/chatbotV2#readme",
+  "dependencies": {
+    "chatbot": "^1.2.3"
+  }
+}
