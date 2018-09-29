@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/blakexcosta/chatbotV2#readme",
   "dependencies": {
-    "chatbot": "^1.2.3"
+    "chatbot": "^1.2.3",
+    "express": "^4.16.3"
   }
 }
